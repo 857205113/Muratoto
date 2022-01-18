@@ -1,0 +1,270 @@
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\roslyn\csc.exe
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\roslyn\System.Collections.Immutable.dll
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\roslyn\vbc.exe
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\roslyn\VBCSCompiler.exe
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\roslyn\VBCSCompiler.exe.config
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\proje.dll.config
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\proje.dll
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\proje.pdb
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\Antlr3.Runtime.dll
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\EntityFramework.dll
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\EntityFramework.SqlServer.dll
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\Microsoft.Owin.dll
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\Microsoft.Owin.Security.dll
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\Microsoft.Owin.Security.Google.dll
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\Microsoft.Web.Infrastructure.dll
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\Newtonsoft.Json.dll
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\Owin.dll
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\System.Web.Optimization.dll
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\System.Web.Providers.dll
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\WebGrease.dll
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\System.Web.Optimization.xml
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\Antlr3.Runtime.pdb
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\Newtonsoft.Json.xml
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\EntityFramework.xml
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\EntityFramework.SqlServer.xml
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\System.Web.Providers.xml
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\Microsoft.Owin.xml
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\Microsoft.Owin.Security.xml
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\Microsoft.Owin.Security.Google.xml
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\obj\Debug\proje.csprojResolveAssemblyReference.cache
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\obj\Debug\proje.dll
+c:\users\lenovo-z50\documents\visual studio 2015\Projects\proje\proje\obj\Debug\proje.pdb
+D:\projects_all\proje\proje\bin\roslyn\csc.exe
+D:\projects_all\proje\proje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\projects_all\proje\proje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\projects_all\proje\proje\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\projects_all\proje\proje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\projects_all\proje\proje\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\projects_all\proje\proje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\projects_all\proje\proje\bin\roslyn\System.Collections.Immutable.dll
+D:\projects_all\proje\proje\bin\roslyn\System.Reflection.Metadata.dll
+D:\projects_all\proje\proje\bin\roslyn\vbc.exe
+D:\projects_all\proje\proje\bin\roslyn\VBCSCompiler.exe
+D:\projects_all\proje\proje\bin\roslyn\VBCSCompiler.exe.config
+D:\projects_all\proje\proje\bin\proje.dll.config
+D:\projects_all\proje\proje\bin\proje.dll
+D:\projects_all\proje\proje\bin\proje.pdb
+D:\projects_all\proje\proje\bin\Antlr3.Runtime.dll
+D:\projects_all\proje\proje\bin\AspNet.ScriptManager.bootstrap.dll
+D:\projects_all\proje\proje\bin\AspNet.ScriptManager.jQuery.dll
+D:\projects_all\proje\proje\bin\EntityFramework.dll
+D:\projects_all\proje\proje\bin\EntityFramework.SqlServer.dll
+D:\projects_all\proje\proje\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\projects_all\proje\proje\bin\Microsoft.AspNet.Identity.Core.dll
+D:\projects_all\proje\proje\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\projects_all\proje\proje\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\projects_all\proje\proje\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\projects_all\proje\proje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\projects_all\proje\proje\bin\Microsoft.Owin.dll
+D:\projects_all\proje\proje\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\projects_all\proje\proje\bin\Microsoft.Owin.Security.Cookies.dll
+D:\projects_all\proje\proje\bin\Microsoft.Owin.Security.dll
+D:\projects_all\proje\proje\bin\Microsoft.Owin.Security.Facebook.dll
+D:\projects_all\proje\proje\bin\Microsoft.Owin.Security.Google.dll
+D:\projects_all\proje\proje\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\projects_all\proje\proje\bin\Microsoft.Owin.Security.OAuth.dll
+D:\projects_all\proje\proje\bin\Microsoft.Owin.Security.Twitter.dll
+D:\projects_all\proje\proje\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\projects_all\proje\proje\bin\Microsoft.ScriptManager.WebForms.dll
+D:\projects_all\proje\proje\bin\Microsoft.Web.Infrastructure.dll
+D:\projects_all\proje\proje\bin\Newtonsoft.Json.dll
+D:\projects_all\proje\proje\bin\Owin.dll
+D:\projects_all\proje\proje\bin\System.Web.Optimization.dll
+D:\projects_all\proje\proje\bin\System.Web.Providers.dll
+D:\projects_all\proje\proje\bin\WebGrease.dll
+D:\projects_all\proje\proje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\projects_all\proje\proje\bin\System.Web.Optimization.xml
+D:\projects_all\proje\proje\bin\Antlr3.Runtime.pdb
+D:\projects_all\proje\proje\bin\Newtonsoft.Json.xml
+D:\projects_all\proje\proje\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\projects_all\proje\proje\bin\EntityFramework.xml
+D:\projects_all\proje\proje\bin\EntityFramework.SqlServer.xml
+D:\projects_all\proje\proje\bin\Microsoft.AspNet.Identity.Core.xml
+D:\projects_all\proje\proje\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\projects_all\proje\proje\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\projects_all\proje\proje\bin\System.Web.Providers.xml
+D:\projects_all\proje\proje\bin\Microsoft.Owin.xml
+D:\projects_all\proje\proje\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\projects_all\proje\proje\bin\Microsoft.Owin.Security.xml
+D:\projects_all\proje\proje\bin\Microsoft.Owin.Security.Facebook.xml
+D:\projects_all\proje\proje\bin\Microsoft.Owin.Security.Cookies.xml
+D:\projects_all\proje\proje\bin\Microsoft.Owin.Security.Google.xml
+D:\projects_all\proje\proje\bin\Microsoft.Owin.Security.Twitter.xml
+D:\projects_all\proje\proje\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\projects_all\proje\proje\bin\Microsoft.Owin.Security.OAuth.xml
+D:\projects_all\proje\proje\obj\Debug\proje.csproj.AssemblyReference.cache
+D:\projects_all\proje\proje\obj\Debug\proje.csproj.CoreCompileInputs.cache
+D:\projects_all\proje\proje\obj\Debug\proje.csproj.CopyComplete
+D:\projects_all\proje\proje\obj\Debug\proje.dll
+D:\projects_all\proje\proje\obj\Debug\proje.pdb
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\roslyn\csc.exe
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\roslyn\vbc.exe
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\roslyn\VBCSCompiler.exe
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\proje.dll.config
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\proje.dll
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\proje.pdb
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\Antlr3.Runtime.dll
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\EntityFramework.dll
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\EntityFramework.SqlServer.dll
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\Microsoft.Owin.dll
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\Microsoft.Owin.Security.dll
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\Newtonsoft.Json.dll
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\Owin.dll
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\System.Web.Optimization.dll
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\System.Web.Providers.dll
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\WebGrease.dll
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\System.Web.Optimization.xml
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\Antlr3.Runtime.pdb
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\Newtonsoft.Json.xml
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\EntityFramework.xml
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\EntityFramework.SqlServer.xml
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\System.Web.Providers.xml
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\Microsoft.Owin.xml
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\Microsoft.Owin.Security.xml
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\obj\Debug\proje.csproj.AssemblyReference.cache
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\obj\Debug\proje.csproj.CoreCompileInputs.cache
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\obj\Debug\proje.csproj.CopyComplete
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\obj\Debug\proje.dll
+C:\Users\oobul\Documents\Visual Studio 2019\Projects\proje\proje\obj\Debug\proje.pdb
+C:\Users\Murat\Desktop\proje\proje\bin\roslyn\csc.exe
+C:\Users\Murat\Desktop\proje\proje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Murat\Desktop\proje\proje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Murat\Desktop\proje\proje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Murat\Desktop\proje\proje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Murat\Desktop\proje\proje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Murat\Desktop\proje\proje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Murat\Desktop\proje\proje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Murat\Desktop\proje\proje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Murat\Desktop\proje\proje\bin\roslyn\vbc.exe
+C:\Users\Murat\Desktop\proje\proje\bin\roslyn\VBCSCompiler.exe
+C:\Users\Murat\Desktop\proje\proje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Murat\Desktop\proje\proje\bin\proje.dll.config
+C:\Users\Murat\Desktop\proje\proje\bin\proje.dll
+C:\Users\Murat\Desktop\proje\proje\bin\proje.pdb
+C:\Users\Murat\Desktop\proje\proje\bin\Antlr3.Runtime.dll
+C:\Users\Murat\Desktop\proje\proje\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Murat\Desktop\proje\proje\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Murat\Desktop\proje\proje\bin\EntityFramework.dll
+C:\Users\Murat\Desktop\proje\proje\bin\EntityFramework.SqlServer.dll
+C:\Users\Murat\Desktop\proje\proje\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Murat\Desktop\proje\proje\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Murat\Desktop\proje\proje\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Murat\Desktop\proje\proje\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Murat\Desktop\proje\proje\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Murat\Desktop\proje\proje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Murat\Desktop\proje\proje\bin\Microsoft.Owin.dll
+C:\Users\Murat\Desktop\proje\proje\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Murat\Desktop\proje\proje\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Murat\Desktop\proje\proje\bin\Microsoft.Owin.Security.dll
+C:\Users\Murat\Desktop\proje\proje\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Murat\Desktop\proje\proje\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Murat\Desktop\proje\proje\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Murat\Desktop\proje\proje\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Murat\Desktop\proje\proje\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Murat\Desktop\proje\proje\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Murat\Desktop\proje\proje\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Murat\Desktop\proje\proje\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Murat\Desktop\proje\proje\bin\Newtonsoft.Json.dll
+C:\Users\Murat\Desktop\proje\proje\bin\Owin.dll
+C:\Users\Murat\Desktop\proje\proje\bin\System.Web.Optimization.dll
+C:\Users\Murat\Desktop\proje\proje\bin\System.Web.Providers.dll
+C:\Users\Murat\Desktop\proje\proje\bin\WebGrease.dll
+C:\Users\Murat\Desktop\proje\proje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Murat\Desktop\proje\proje\bin\System.Web.Optimization.xml
+C:\Users\Murat\Desktop\proje\proje\bin\Antlr3.Runtime.pdb
+C:\Users\Murat\Desktop\proje\proje\bin\Newtonsoft.Json.xml
+C:\Users\Murat\Desktop\proje\proje\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Murat\Desktop\proje\proje\bin\EntityFramework.xml
+C:\Users\Murat\Desktop\proje\proje\bin\EntityFramework.SqlServer.xml
+C:\Users\Murat\Desktop\proje\proje\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Murat\Desktop\proje\proje\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Murat\Desktop\proje\proje\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Murat\Desktop\proje\proje\bin\System.Web.Providers.xml
+C:\Users\Murat\Desktop\proje\proje\bin\Microsoft.Owin.xml
+C:\Users\Murat\Desktop\proje\proje\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Murat\Desktop\proje\proje\bin\Microsoft.Owin.Security.xml
+C:\Users\Murat\Desktop\proje\proje\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Murat\Desktop\proje\proje\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Murat\Desktop\proje\proje\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Murat\Desktop\proje\proje\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Murat\Desktop\proje\proje\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Murat\Desktop\proje\proje\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Murat\Desktop\proje\proje\obj\Debug\proje.csproj.AssemblyReference.cache
+C:\Users\Murat\Desktop\proje\proje\obj\Debug\proje.csproj.CoreCompileInputs.cache
+C:\Users\Murat\Desktop\proje\proje\obj\Debug\proje.csproj.CopyComplete
+C:\Users\Murat\Desktop\proje\proje\obj\Debug\proje.dll
+C:\Users\Murat\Desktop\proje\proje\obj\Debug\proje.pdb

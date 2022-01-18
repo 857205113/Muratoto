@@ -1,0 +1,143 @@
+﻿body {
+    background-color: #e1e1e1;
+    background-size:cover;
+    
+
+}
+
+
+
+
+* {
+margin:0;
+padding:0;
+border:0;
+}
+a{
+    text-decoration:none;
+}
+a:hover{
+    font-weight:bolder;
+}
+
+
+.menubuton{
+    float:left;
+    width:100px;
+    height:30px;
+    margin-top:5px;
+    background-color:#fff;
+    color:#2a595c;
+    line-height:30px;
+    text-align:center;
+    margin-right:20px;
+    font-size:18px;
+}
+.menubuton:hover{
+    font-weight:bolder;
+}
+
+.kutu {
+width:1000px;
+height:auto;
+margin:0 auto;
+}
+.kutu .slider{
+    width:1000px;
+    height:300px;
+    float:left;
+    background-image:url(resimler/metal.jpg);
+    background-size:cover;
+    }
+
+.kutu .menu{
+    width:1000px;
+    height:50px;
+    float:left;
+    background-image:url(resimler/metal.jpg);
+    background-repeat:repeat-x;
+    margin-bottom:10px;
+}
+
+
+.kutu .govde{
+    width:1000px;
+    height:600px;
+    float:left;
+    margin-top:10px;
+
+}
+
+.kutu .govde .govdesol{
+    width:270px;
+    height:auto;
+    float:left;
+}
+.kutu .govde .govdesol .govdesolbaslik{
+    width:100%;
+    height:30px;
+    float:left;
+    background-image:url(/resimler/button2.gif);
+    background-size:cover;
+    text-align:center;
+    border:1px dotted #2a595c;
+    color:#fff;
+    margin-top:3px;
+}
+.kutu .govde .govdesol .govdesolicerik{
+    width:100%;
+    float:left;
+    height:auto;
+    border:1px dotted #2a595c;
+}
+.kutu .govde .govdesag{
+    width:700px;
+    height:auto;
+    float:right;
+    border:1px dotted #2a595c;
+}
+.kutu .alt{
+    width:878px;
+    height:192px;
+    float:left;
+    margin-top:20px;
+    
+}
+
+.textbox{
+background: url(search-dark.png) no-repeat 10px 6px #333;
+color: #ccc;
+width: 150px;
+padding: 6px 15px 6px 35px;
+border-radius: 20px;
+box-shadow: 0 1px 0 #ccc inset;
+transition:500ms all ease;
+}
+.textbox:hover
+{
+width:180px;
+}
+.kbutonn {
+	background-color:#ba2323;
+	padding:10px;
+	position:relative;
+	font-family: 'Open Sans', sans-serif;
+    font-weight:bold;
+	font-size:12px;
+	text-decoration:none;
+	color:#fff;
+	border: solid 1px #831212;
+	background-image: linear-gradient(bottom, rgb(171,27,27) 0%, rgb(212,51,51) 100%);
+	border-radius: 5px;
+    top: 0px;
+    left: 0px;
+}
+
+.kbutonn:active {
+	padding-bottom:9px;
+	padding-left:10px;
+	padding-right:10px;
+	padding-top:11px;
+	top:1px;
+	background-image: linear-gradient(bottom, rgb(171,27,27) 100%, rgb(212,51,51) 0%);
+}
